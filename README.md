@@ -1,6 +1,6 @@
 # Minima
 
-Minima is an ultra minimal css boilerplate (largely) based on [Milligram](https://milligram.io). Minima offers a very minimal set of css rules and provides a great starting point for your web development projects.
+Minima is an ultra minimal css boilerplate (largely) based on [Milligram](http://milligram.io). Minima offers a very minimal set of css rules and provides a great starting point for your web development projects.
 
 ## Usage
 
@@ -33,7 +33,7 @@ Perhaps all of markdown and no more.
 * tables
 * images
 
-[Milligram](https://milligram.io) offers more rules such as forms, buttons etc. If that would better fit your needs, make sure to check it out, it's awesome.
+[Milligram](http://milligram.io) offers more rules such as forms, buttons etc. If that would better fit your needs, make sure to check it out, it's awesome.
 
 ## License
 
