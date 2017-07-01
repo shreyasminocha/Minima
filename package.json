@@ -1,0 +1,26 @@
+{
+    "name": "Minima",
+    "version": "1.0.0",
+    "description": "Minimal css boilerplate",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shreyasminocha/Minima.git"
+    },
+    "keywords": [
+        "minimal",
+        "css",
+        "boilerplate"
+    ],
+    "author": "Shreyas Minocha",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-csscomb": "^3.0.8",
+        "gulp-rename": "^1.2.2",
+        "gulp-uglifycss": "^1.0.8"
+    }
+}
