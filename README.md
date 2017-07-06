@@ -10,15 +10,17 @@ You can choose to either download Minima manually:
 <link rel="stylesheet" type="text/css" href="/path/to/minima.min.css">
 ```
 
-Or source it from the [Rawgit CDN](https://rawgit.com).
+Or source it from jsdelivr CDN.
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/shreyasminocha/Minima/1.0.0/dist/minima.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/shreyasminocha/Minima@[insert latest version]/dist/minima.min.css">
 ```
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/shreyasminocha/Minima/1.0.0/dist/minima.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/shreyasminocha/Minima@[insert latest version]/dist/minima.css">
 ```
+
+Make sure to replace `[insert latest version]` above with the [latest version](https://github.com/shreyasminocha/Minima/releases/latest) number!
 
 ## Features
 
