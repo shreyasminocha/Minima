@@ -1,6 +1,6 @@
 /**
  * Minima,
- * licensed under the MIT License<https://shreyas.mit-license.org/2017>
+ * licensed under the MIT License <https://shreyas.mit-license.org/2017>
  */
 
 /**
@@ -76,6 +76,16 @@ h6 {
     line-height: 1.4;
 }
 
+blockquote,
+a
+ol,
+p,
+pre,
+table,
+ul {
+    margin-bottom: 2.5rem;
+}
+
 b,
 strong {
     font-weight: bold;
@@ -83,6 +93,17 @@ strong {
 
 p {
     margin-top: 0;
+}
+
+hr {
+    border: 0;
+    border-top: 0.1rem solid #f4f5f6;
+    margin: 3.0rem 0;
+}
+
+a {
+    color: #0890ff;
+    text-decoration: none;
 }
 
 blockquote {
@@ -118,17 +139,6 @@ pre > code {
     white-space: pre;
 }
 
-hr {
-    border: 0;
-    border-top: 0.1rem solid #f4f5f6;
-    margin: 3.0rem 0;
-}
-
-a {
-    color: #0890ff;
-    text-decoration: none;
-}
-
 ol,
 ul {
     list-style: none;
@@ -154,16 +164,6 @@ ul {
 
 li {
     margin-bottom: 1.0rem;
-}
-
-blockquote,
-a
-ol,
-p,
-pre,
-table,
-ul {
-    margin-bottom: 2.5rem;
 }
 
 /**
