@@ -107,7 +107,7 @@ code {
 
 pre {
     background: #f4f5f6;
-    border-left: 0.3rem solid #9b4dca;
+    border-left: 0.3rem solid #d1d1d1;
     overflow-y: hidden;
 }
 
@@ -125,13 +125,8 @@ hr {
 }
 
 a {
-    color: #9b4dca;
+    color: #0890ff;
     text-decoration: none;
-}
-
-a:focus,
-a:hover {
-    color: #606c76;
 }
 
 ol,
