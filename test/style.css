@@ -1,0 +1,13 @@
+/* adds only very basic presentational styles */
+/* overrides no styles in minima */
+
+body {
+    width: 50%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        width: 80%;
+    }
+}

@@ -2,6 +2,8 @@
 
 Minima is an ultra minimal css boilerplate (largely) based on [Milligram](http://milligram.io). Minima offers a very minimal set of css rules and provides a great starting point for your web development projects.
 
+Also, Minima goes very well with [normalize](https://necolas.github.io/normalize.css/)(which is a great idea in any case).
+
 ## Usage
 
 You can choose to either download Minima manually:
