@@ -4,6 +4,10 @@ Minima is an ultra minimal css boilerplate (largely) based on [Milligram](http:/
 
 Also, Minima goes very well with [normalize](https://necolas.github.io/normalize.css/)(which is a great idea in any case).
 
+| Before(normalize)                        | After(normalize+minima+roboto)          |
+| ---------------------------------------- | --------------------------------------- |
+| ![before minima](screenshots/sans-minima.png) | ![after minima](screenshots/minima.png) |
+
 ## Usage
 
 You can choose to either download Minima manually:
