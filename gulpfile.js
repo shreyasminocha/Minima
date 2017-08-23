@@ -5,6 +5,7 @@ var gulp = require('gulp'),
 
 var sources = [
     "src/meta.css",
+    "src/normalize.css",
     "src/base.css",
     "src/typography.css",
     "src/table.css",
