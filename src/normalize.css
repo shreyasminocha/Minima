@@ -21,19 +21,14 @@ section {
     display: block;
 }
 
-h1 {
-    font-size: 2em;
-    margin: 0.67em 0;
-}
-
 figcaption,
 figure,
 main {
     display: block;
 }
 
-figure {
-    margin: 1em 40px;
+img {
+    border-style: none;
 }
 
 hr {
@@ -42,7 +37,19 @@ hr {
     overflow: visible;
 }
 
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
 pre {
+    font-family: monospace, monospace;
+    font-size: 1em;
+}
+
+code,
+kbd,
+samp {
     font-family: monospace, monospace;
     font-size: 1em;
 }
@@ -60,35 +67,4 @@ strong {
 b,
 strong {
     font-weight: bolder;
-}
-
-code,
-kbd,
-samp {
-    font-family: monospace, monospace;
-    font-size: 1em;
-}
-
-small {
-    font-size: 80%;
-}
-
-sub,
-sup {
-    font-size: 75%;
-    line-height: 0;
-    position: relative;
-    vertical-align: baseline;
-}
-
-sub {
-    bottom: -0.25em;
-}
-
-sup {
-    top: -0.5em;
-}
-
-img {
-    border-style: none;
 }
